@@ -1,0 +1,17 @@
+C:\Users\nowoc\source\repos\BMI\BMI\bin\Debug\net6.0-windows\BMI.exe
+C:\Users\nowoc\source\repos\BMI\BMI\bin\Debug\net6.0-windows\BMI.deps.json
+C:\Users\nowoc\source\repos\BMI\BMI\bin\Debug\net6.0-windows\BMI.runtimeconfig.json
+C:\Users\nowoc\source\repos\BMI\BMI\bin\Debug\net6.0-windows\BMI.dll
+C:\Users\nowoc\source\repos\BMI\BMI\bin\Debug\net6.0-windows\BMI.pdb
+C:\Users\nowoc\source\repos\BMI\BMI\obj\Debug\net6.0-windows\BMI.csproj.AssemblyReference.cache
+C:\Users\nowoc\source\repos\BMI\BMI\obj\Debug\net6.0-windows\BMI.Form1.resources
+C:\Users\nowoc\source\repos\BMI\BMI\obj\Debug\net6.0-windows\BMI.csproj.GenerateResource.cache
+C:\Users\nowoc\source\repos\BMI\BMI\obj\Debug\net6.0-windows\BMI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nowoc\source\repos\BMI\BMI\obj\Debug\net6.0-windows\BMI.AssemblyInfoInputs.cache
+C:\Users\nowoc\source\repos\BMI\BMI\obj\Debug\net6.0-windows\BMI.AssemblyInfo.cs
+C:\Users\nowoc\source\repos\BMI\BMI\obj\Debug\net6.0-windows\BMI.csproj.CoreCompileInputs.cache
+C:\Users\nowoc\source\repos\BMI\BMI\obj\Debug\net6.0-windows\BMI.dll
+C:\Users\nowoc\source\repos\BMI\BMI\obj\Debug\net6.0-windows\refint\BMI.dll
+C:\Users\nowoc\source\repos\BMI\BMI\obj\Debug\net6.0-windows\BMI.pdb
+C:\Users\nowoc\source\repos\BMI\BMI\obj\Debug\net6.0-windows\BMI.genruntimeconfig.cache
+C:\Users\nowoc\source\repos\BMI\BMI\obj\Debug\net6.0-windows\ref\BMI.dll
