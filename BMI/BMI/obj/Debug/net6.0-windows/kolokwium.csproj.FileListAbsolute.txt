@@ -1,0 +1,17 @@
+C:\Users\Adiker\Source\Repos\kolosik\BMI\BMI\bin\Debug\net6.0-windows\kolokwium.exe
+C:\Users\Adiker\Source\Repos\kolosik\BMI\BMI\bin\Debug\net6.0-windows\kolokwium.deps.json
+C:\Users\Adiker\Source\Repos\kolosik\BMI\BMI\bin\Debug\net6.0-windows\kolokwium.runtimeconfig.json
+C:\Users\Adiker\Source\Repos\kolosik\BMI\BMI\bin\Debug\net6.0-windows\kolokwium.dll
+C:\Users\Adiker\Source\Repos\kolosik\BMI\BMI\bin\Debug\net6.0-windows\kolokwium.pdb
+C:\Users\Adiker\Source\Repos\kolosik\BMI\BMI\obj\Debug\net6.0-windows\kolokwium.csproj.AssemblyReference.cache
+C:\Users\Adiker\Source\Repos\kolosik\BMI\BMI\obj\Debug\net6.0-windows\kolokwium.csproj.GenerateResource.cache
+C:\Users\Adiker\Source\Repos\kolosik\BMI\BMI\obj\Debug\net6.0-windows\kolokwium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adiker\Source\Repos\kolosik\BMI\BMI\obj\Debug\net6.0-windows\kolokwium.AssemblyInfoInputs.cache
+C:\Users\Adiker\Source\Repos\kolosik\BMI\BMI\obj\Debug\net6.0-windows\kolokwium.AssemblyInfo.cs
+C:\Users\Adiker\Source\Repos\kolosik\BMI\BMI\obj\Debug\net6.0-windows\kolokwium.csproj.CoreCompileInputs.cache
+C:\Users\Adiker\Source\Repos\kolosik\BMI\BMI\obj\Debug\net6.0-windows\kolokwium.dll
+C:\Users\Adiker\Source\Repos\kolosik\BMI\BMI\obj\Debug\net6.0-windows\refint\kolokwium.dll
+C:\Users\Adiker\Source\Repos\kolosik\BMI\BMI\obj\Debug\net6.0-windows\kolokwium.pdb
+C:\Users\Adiker\Source\Repos\kolosik\BMI\BMI\obj\Debug\net6.0-windows\kolokwium.genruntimeconfig.cache
+C:\Users\Adiker\Source\Repos\kolosik\BMI\BMI\obj\Debug\net6.0-windows\ref\kolokwium.dll
+C:\Users\Adiker\Source\Repos\kolosik\BMI\BMI\obj\Debug\net6.0-windows\kolokwium.Form1.resources
